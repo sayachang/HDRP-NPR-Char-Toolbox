@@ -58,3 +58,16 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Example*
+Assets/HDRPDefault*
+Assets/Preset*
+Assets/Readme*
+Assets/Scenes*
+Assets/Scripts/SimpleCameraController*
+Assets/Settings*
+Assets/Tutorial*
+Assets/VFX*
+Packages/*
+ProjectSettings/*
+UserSettings/*
+
